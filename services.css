@@ -1,0 +1,25 @@
+/* Navbar styling from form.css */
+.services-container {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.services-container h2 {
+    color: #4CAF50;
+    text-align: center;
+}
+
+.service-box {
+    background-color: #e7f3e7;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.service-box h3 {
+    color: #333;
+}
