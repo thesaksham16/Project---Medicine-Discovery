@@ -1,0 +1,19 @@
+/* Reuse navbar styling from home or form.css */
+.about-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.about-container h2 {
+    color: #4CAF50;
+}
+
+.about-container p {
+    font-size: 1.1rem;
+    color: #333;
+}
